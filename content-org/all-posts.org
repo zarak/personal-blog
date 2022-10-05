@@ -1,0 +1,16 @@
+#+hugo_base_dir: ../
+
+* DONE First Post :nix:
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-first-post
+:EXPORT_DATE: 2022-10-05
+:END:
+This is my post body
+* DONE Second Post :nix:
+:PROPERTIES:
+:EXPORT_FILE_NAME: my-second-post
+:EXPORT_DATE: 2022-10-05
+:EXPORT_HUGO_CUSTOM_FRONT_MATTER: :mathjax true
+:END:
+Test mathjax
+\[ y = x + 4 \]
