@@ -5,6 +5,7 @@
 :PROPERTIES:
 :EXPORT_FILE_NAME: about
 :END:
+[[file:/home/zarak/Downloads/sisyphus.png]]
 About
 * DONE Showcase
 :PROPERTIES:
