@@ -1,29 +1,20 @@
 #+hugo_base_dir: ../
+#+hugo_section: /
 
-* DONE Homepage
-:PROPERTIES:
-:EXPORT_HUGO_SECTION:
-:EXPORT_FILE_NAME: _index
-:EXPORT_HUGO_MENU: :menu "main"
-:END:
-This is the home of my blog!
 * DONE About
 :PROPERTIES:
-:EXPORT_HUGO_SECTION: about
-:EXPORT_HUGO_MENU: :menu "main"
-:EXPORT_FILE_NAME: _index
+:EXPORT_FILE_NAME: about
 :END:
-This is cool
+About
+* DONE Showcase
+:PROPERTIES:
+:EXPORT_FILE_NAME: showcase
+:END:
+Showcase
 * DONE Blog Posts
 :PROPERTIES:
 :EXPORT_HUGO_SECTION: posts
 :END:
-** DONE My Blog Homepage
-:PROPERTIES:
-:EXPORT_HUGO_MENU: :menu "main"
-:EXPORT_FILE_NAME: _index
-:END:
-Man, look at all my blog posts.
 ** DONE First Post :nix:
 :PROPERTIES:
 :EXPORT_FILE_NAME: my-first-post
