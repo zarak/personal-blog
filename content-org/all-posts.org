@@ -22,6 +22,7 @@ Showcase
 :EXPORT_DATE: 2022-10-05
 :END:
 This is my post body
+
 ** DONE Second Post :nix:
 :PROPERTIES:
 :EXPORT_FILE_NAME: my-second-post
