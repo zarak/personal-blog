@@ -18,3 +18,5 @@ github.com/zarak/hugo-theme-terminal v0.0.0-20221005191918-e85e1562b5b3 h1:wMT/L
 github.com/zarak/hugo-theme-terminal v0.0.0-20221005191918-e85e1562b5b3/go.mod h1:vF7fEWHgTxquSnd8YjQlFujXgeJBFXFlHe10tEd3L2M=
 github.com/zarak/hugo-theme-terminal v0.0.0-20221005192447-c43c263634bc h1:3gMY+4VmfMPqI2n4yVxCTmXnaCULMDspheCsZd0OI3w=
 github.com/zarak/hugo-theme-terminal v0.0.0-20221005192447-c43c263634bc/go.mod h1:vF7fEWHgTxquSnd8YjQlFujXgeJBFXFlHe10tEd3L2M=
+github.com/zarak/hugo-theme-terminal v0.0.0-20221006165043-811ac481a9d7 h1:iNEi+Ys2z41FOTpvRVSWbaTFFTNGTZm+VnPLQTQhyog=
+github.com/zarak/hugo-theme-terminal v0.0.0-20221006165043-811ac481a9d7/go.mod h1:vF7fEWHgTxquSnd8YjQlFujXgeJBFXFlHe10tEd3L2M=

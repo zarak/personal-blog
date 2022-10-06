@@ -8,4 +8,7 @@ mathjax = true
 +++
 
 Test mathjax
+
 \\[ y = x + 4 \\]
+
+More stuff

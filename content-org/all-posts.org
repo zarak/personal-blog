@@ -1,16 +1,43 @@
 #+hugo_base_dir: ../
 
-* DONE First Post :nix:
+* DONE Homepage
+:PROPERTIES:
+:EXPORT_HUGO_SECTION:
+:EXPORT_FILE_NAME: _index
+:EXPORT_HUGO_MENU: :menu "main"
+:END:
+This is the home of my blog!
+* DONE About
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: about
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_FILE_NAME: _index
+:END:
+This is cool
+* DONE Blog Posts
+:PROPERTIES:
+:EXPORT_HUGO_SECTION: posts
+:END:
+** DONE My Blog Homepage
+:PROPERTIES:
+:EXPORT_HUGO_MENU: :menu "main"
+:EXPORT_FILE_NAME: _index
+:END:
+Man, look at all my blog posts.
+** DONE First Post :nix:
 :PROPERTIES:
 :EXPORT_FILE_NAME: my-first-post
 :EXPORT_DATE: 2022-10-05
 :END:
 This is my post body
-* DONE Second Post :nix:
+** DONE Second Post :nix:
 :PROPERTIES:
 :EXPORT_FILE_NAME: my-second-post
 :EXPORT_DATE: 2022-10-05
 :EXPORT_HUGO_CUSTOM_FRONT_MATTER: :mathjax true
 :END:
 Test mathjax
+
 \[ y = x + 4 \]
+
+More stuff
